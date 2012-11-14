@@ -1,4 +1,4 @@
-even better first line
+worse first line
 even better second line
 hello, world!
 hi again!
