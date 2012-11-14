@@ -1,3 +1,4 @@
-new first line
+even better first line
+new second line
 hello, world!
 hi again!
